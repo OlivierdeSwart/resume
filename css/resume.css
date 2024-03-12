@@ -180,7 +180,7 @@ p {
 /* HEADER */
 
 .header {
-    background-image: url('../img/Background.png');
+    background-image: url('../img/background.png');
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -397,7 +397,7 @@ p {
 }
 
 .skills .skill-card {
-    background-image: url('../img/Background.png');
+    background-image: url('../img/background.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #060003;
